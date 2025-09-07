@@ -1,1 +1,0 @@
-const e=[{id:1,picture:"forbes",content:"We are proud that our clients are already <br> featured on Forbes lists."},{id:2,picture:"google",content:"Our clients are work with market-leading <br> companies and choose to work with us."},{id:3,picture:"techosystem",content:"Our clients are among the top 100 <br> fastest-growing startups in Ukraine."}];export{e as a};
